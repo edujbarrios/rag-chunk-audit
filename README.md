@@ -2,7 +2,7 @@
 
 Find common quality and safety issues in RAG chunks before indexing.
 
-![PyPI](https://img.shields.io/pypi/v/rag-chunk-audit)
+[![PyPI](https://img.shields.io/pypi/v/rag-chunk-audit)](https://pypi.org/project/rag-chunk-audit/0.1.0/)
 ![License: MPL-2.0](https://img.shields.io/badge/License-MPL--2.0-blue.svg)
 
 ## Installation
